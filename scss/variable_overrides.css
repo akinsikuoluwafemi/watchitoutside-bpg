@@ -1,26 +1,15 @@
 body, html {
   height: 100%;
 }
+
 .bg-picture {
   /* The image used */
   background-image: url("../images/white-screen-projector-by-the-beach-2507025.jpg");
-
   /* Full height */
   height: 100%;
-
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
-
-$success : #F8F2EC;
-$info: #343940;
-$link-color: grey;
-$link-hover-color:#1377B5;
-$link-hover-decoration: none;
-$light: transparent;
-$font-family-base: 'Poppins', sans-serif;
-
-
-// $boder-info:#FB9E00
+/*# sourceMappingURL=variable_overrides.css.map */
